@@ -1,0 +1,13 @@
+header {
+  color: blue;
+  margin: 20px 0 20px 0;
+  font-family: "Arial";
+  direction: center;
+}
+
+h1 {
+  color: blue;
+  font-size: 40px;
+  background-color: rgb(228, 103, 103);
+  display: flex;
+}/*# sourceMappingURL=index.css.map */

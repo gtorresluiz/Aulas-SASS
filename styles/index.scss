@@ -1,0 +1,29 @@
+$cor: blue ;
+$margem: 20px 0 20px 0;
+$fonte_family:  "Times New Roman";
+$fonte_size: 40px;
+$posicao: center;
+$background: rgb(228, 103, 103);
+$display: flex;
+
+header{
+    color: $cor;
+    margin: $margem;
+    font-family: "Arial";
+    direction: $posicao;   
+}
+
+h1{
+    color: $cor;
+    font-size: $fonte_size;
+    background-color: $background;
+    display: $display;
+}
+
+// h3{
+    
+// }
+
+// footer{
+
+// }
